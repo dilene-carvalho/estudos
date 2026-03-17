@@ -14,7 +14,7 @@
 Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos diversos conceitos como Âncoras, Menus, Listas e Abreviações, dentre outros.
 
 #### Acesse Online:
-[História do Mascote do Android](https://dilene-carvalho.github.io/Estudos/desafio_10/)
+[História do Mascote do Android](https://dilene-carvalho.github.io/estudos/desafio_10/)
 
 #### Preview:
 <img src="desafio_10/imagens/preview_desafio_10.png" width="300">
@@ -26,7 +26,7 @@ Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos d
 Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos a estilização da página com imagens fixas de fundo (Efeito Parallax) e boas práticas no uso de sombras.
 
 #### Acesse online:
-[Projeto Cordel](https://dilene-carvalho.github.io/Estudos/projeto-cordel/)
+[Projeto Cordel](https://dilene-carvalho.github.io/estudos/projeto-cordel/)
 
 #### Preview
 <img src="projeto-cordel/imagens/preview_projeto_cordel.png" width="300">
@@ -39,7 +39,7 @@ Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos a
 Mini projeto desenvolvido durante estudo de iframes, onde recriamos uma  tela de dispositivo mobile com navegação entre nossas redes sociais. Também foi discutido sobre a usabilidade dos iframes e questões de segurança.
 
 #### Acesse online:
-[Projeto Redes Sociais](https://dilene-carvalho.github.io/Estudos/projeto-redes-sociais/)
+[Projeto Redes Sociais](https://dilene-carvalho.github.io/estudos/projeto-redes-sociais/)
 
 #### Preview
 <img src="projeto-redes-sociais/imagens/preview-projeto-redes-sociais.png" width="300">
