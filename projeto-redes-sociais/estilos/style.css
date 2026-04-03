@@ -21,14 +21,16 @@ body{
 
 main{
     height: 100vh;
+    
+}
+
+#iphone{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 #telefone{
-   
-
     height: 627px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
@@ -45,9 +47,9 @@ main{
 }
 
 #redes-sociais{
-    text-align: right;
-    padding-top: 230px;
-    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
     
 }
 
