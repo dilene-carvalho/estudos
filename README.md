@@ -36,7 +36,8 @@ Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos a
 
 ## Projeto Redes Sociais
 
-Mini projeto desenvolvido durante estudo de iframes, onde recriamos uma  tela de dispositivo mobile com navegação entre nossas redes sociais. Também foi discutido sobre a usabilidade dos iframes e questões de segurança.
+Mini projeto desenvolvido durante estudo de iframes, onde recriamos a tela de um dispositivo mobile com navegação entre nossas redes sociais. Também foi discutido sobre a usabilidade dos iframes e questões de segurança.
+Obs.: Não desenvolvemos de forma responsiva pois o foco principal era a prática do uso de iframes. 
 
 #### Acesse online:
 [Projeto Redes Sociais](https://dilene-carvalho.github.io/estudos/projeto-redes-sociais/)

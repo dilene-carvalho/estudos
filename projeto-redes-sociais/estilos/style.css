@@ -15,12 +15,13 @@ html, body{
 
 body{
     background: url('../imagens/mesa-fundo.jpg') no-repeat top center;
-    background-size: 100% 100%;
+    background-size: cover;
     background-attachment: fixed;
 }
 
 main{
     height: 100vh;
+    width: 100vw;
     
 }
 
