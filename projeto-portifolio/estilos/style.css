@@ -242,7 +242,7 @@ footer{
   background-color: var(--destaque);
   color: var(--texto-inverso);
   text-align: center;
-  padding: 12px;
+  padding: 9px;
 }
 
 footer a {
@@ -256,6 +256,22 @@ footer a:hover{
 }
 
 @media screen and (min-width: 768px) {
+
+  main{
+    grid-template-columns: auto 300px 1fr auto;
+  }
+
+  section#ficha{
+    grid-column: 2 / 3;
+    height: fit-content;
+    position: sticky;
+    top: 65px;
+  }
+
+  section#detalhes{
+    grid-column: 3 / 4;
+  }
+
   #skill-container{
     grid-template-columns: 1fr 1fr;
   }
