@@ -10,8 +10,8 @@
   --fundo-principal: #f5f5f5;
   --texto: #222222;
   --texto-inverso: #ffffff;
-  --destaque: #0077ff;
-  --destaque-inverso: #66bbff;
+  --destaque: #8e02eb;
+  --destaque-inverso: #bd83ff;
   --fundo-card: #ffffff;
 }
 
@@ -19,8 +19,8 @@ body.escuro{
   --fundo-principal: #222222;
   --texto: #e0e0e0;
   --texto-inverso: #333333;
-  --destaque: #ff5522;
-  --destaque-inverso: #a73917;
+  --destaque: #9cff22;
+  --destaque-inverso: #138011;
   --fundo-card: #444444;
 
 }
@@ -96,9 +96,10 @@ main {
 
 h1 {
   color: var(--destaque);
-  margin: 15px;
+  margin: 10px;
   font-size: 1.8em;
   text-align: left;
+  line-height: 30px;
 }
 
 #social{
